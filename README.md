@@ -1,4 +1,4 @@
-# 📊 Social Media Impact on Teen Health - ETL Pipeline
+# Social Media Impact on Teen Health - ETL Pipeline
 
 This project is a simple **ETL (Extract, Transform, Load) data pipeline** that analyzes the impact of social media usage on teenage mental and physical health.
 
